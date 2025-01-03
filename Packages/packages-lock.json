@@ -22,13 +22,22 @@
       "source": "builtin",
       "dependencies": {}
     },
+    "com.unity.ai.navigation": {
+      "version": "2.0.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.ai": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.behavior": {
-      "version": "1.0.6",
+      "version": "1.0.7",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.burst": "1.7.2",
-        "com.unity.dt.app-ui": "2.0.0-pre.11",
+        "com.unity.dt.app-ui": "2.0.0-pre.14",
         "com.unity.modules.ai": "1.0.0",
         "com.unity.collections": "2.1.4",
         "com.unity.modules.audio": "1.0.0",
@@ -78,7 +87,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.dt.app-ui": {
-      "version": "2.0.0-pre.11",
+      "version": "2.0.0-pre.14",
       "depth": 1,
       "source": "registry",
       "dependencies": {
